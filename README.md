@@ -13,7 +13,7 @@ MediConnect is a healthcare appointment management system designed to streamline
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB
 - **Email Notifications**: Nodemailer
-- **Frontend**:HTML,CSS,JS
+- **Frontend**:HTML,CSS,Javascript
 
 ## Features
 - **User Authentication**: Secure login and signup for both patients and doctors.
