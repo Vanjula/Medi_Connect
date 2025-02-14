@@ -1,4 +1,4 @@
-#h1 MediConnect - Healthcare Appointment Management System
+MediConnect - Healthcare Appointment Management System
 
 Overview
 
